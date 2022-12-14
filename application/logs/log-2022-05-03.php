@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-03 00:28:14 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-05-03 03:41:07 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('HenryRubot', 'rhondacompton28@yahoo.com', '89036937258', 'Rich people are rich because they use this robot. https://2f-2f.de/gotodate/promo ', 3)
+ERROR - 2022-05-03 04:28:31 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-05-03 05:56:34 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-05-03 09:02:49 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('HenryRubot', 'shannonlegere17@gmail.com', '89036282465', 'The financial Robot works for you even when you sleep. https://2f-2f.de/gotodate/promo ', 3)
+ERROR - 2022-05-03 14:35:02 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('HenryRubot', 'edisson.pineda@gmail.com', '89034560639', 'Have no money? It’s easy to earn them online here. https://2f-2f.de/gotodate/promo ', 3)
+ERROR - 2022-05-03 14:52:16 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-05-03 18:03:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-05-03 18:03:48 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-05-03 18:48:41 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-05-03 18:57:52 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('hwedhweuif', 'oiqwdhwiodbjk', 'o2u3893812378126', '<img scr=x onerror=prompt()>', 3)
+ERROR - 2022-05-03 18:58:56 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('ruw3ri', 'sffsd@gmail.com', '8eu9128u39183u189``', '--> <img scr=x onerror=prompt()>', 3)
+ERROR - 2022-05-03 20:03:32 --> Query error: Table 'astrohelp24.enquiries' doesn't exist - Invalid query: INSERT INTO `enquiries` (`name`, `email`, `phone`, `message`, `type`) VALUES ('HenryRubot', 'taunasnaturalbeauty@gmail.com', '89031751764', 'Make your computer to be you earning instrument. https://2f-2f.de/gotodate/promo ', 3)
+ERROR - 2022-05-03 21:37:36 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223

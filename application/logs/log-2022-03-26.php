@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-26 03:56:56 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 04:06:07 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 04:39:27 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 09:44:46 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 10:36:08 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 14:06:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Jain' at line 1 - Invalid query: select * from astrologers where id =Seema Jain 
+ERROR - 2022-03-26 14:06:29 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 14:06:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema Jain' at line 1 - Invalid query: select * from astrologers where id =Dr Seema Jain 
+ERROR - 2022-03-26 14:06:33 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 14:06:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema Jain' at line 1 - Invalid query: select * from astrologers where id =Dr Seema Jain 
+ERROR - 2022-03-26 14:06:36 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 17:19:57 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 17:34:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-03-26 17:34:59 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 19:19:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Jain' at line 1 - Invalid query: select * from astrologers where id =Seema Jain 
+ERROR - 2022-03-26 19:19:21 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 19:20:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema Jain' at line 1 - Invalid query: select * from astrologers where id =Dr Seema Jain 
+ERROR - 2022-03-26 19:20:45 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 19:23:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema Jain' at line 1 - Invalid query: select * from astrologers where id =Dr Seema Jain 
+ERROR - 2022-03-26 19:23:56 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-03-26 19:46:39 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 20:40:43 --> Severity: Warning --> Creating default object from empty value /var/www/html/application/controllers/Home.php 3223
+ERROR - 2022-03-26 22:00:33 --> Severity: Warning --> move_uploaded_file(../astrokul_new/uploads/astrologers/1648312233.jpeg): failed to open stream: No such file or directory /var/www/html/application/controllers/Home.php 448
+ERROR - 2022-03-26 22:00:33 --> Severity: Warning --> move_uploaded_file(): Unable to move '/tmp/phpQgnSYZ' to '../astrokul_new/uploads/astrologers/1648312233.jpeg' /var/www/html/application/controllers/Home.php 448
+ERROR - 2022-03-26 22:00:33 --> Severity: Warning --> move_uploaded_file(../astrokul_new/uploads/astrologers/1648312233.jpeg): failed to open stream: No such file or directory /var/www/html/application/controllers/Home.php 466
+ERROR - 2022-03-26 22:00:33 --> Severity: Warning --> move_uploaded_file(): Unable to move '/tmp/phpH0C0ea' to '../astrokul_new/uploads/astrologers/1648312233.jpeg' /var/www/html/application/controllers/Home.php 466
+ERROR - 2022-03-26 22:00:33 --> Query error: Field 'bio' doesn't have a default value - Invalid query: INSERT INTO `astrologers` (`name`, `email`, `phone`, `gender`, `dob`, `languages`, `experience`, `location`, `state`, `city`, `pincode`, `bank_account_no`, `account_type`, `ifsc_code`, `bank_account_holder_name`, `pan_number`, `aadhar_number`, `pan_card_image`, `aadhar_card_front_image`, `added_on`) VALUES ('Dr. Pritam Kumar Das', 'drpritamkrdas@gmail.com', '9591681602', 'Male', '1995-08-05', 'Bengali|English|Hindi', '6', 'B K CHATTERJEE LANE, SONAPATTY, KRISHNANAGAR, NADIA', 'WEST BENGAL', 'Krishna Nagar', '741101', '20248866717', 'Saving Account', 'SBIN0016647', 'Pritam Kumar Das', 'BZVPD2045K', '829040236840', '1648312233.jpeg', '1648312233.jpeg', '2022-03-26 22:00:33')
+ERROR - 2022-03-26 23:07:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-03-26 23:07:17 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42

@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-13 00:21:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 00:21:35 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 00:21:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema K' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema K 
+ERROR - 2022-08-13 00:21:42 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 01:12:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 01:12:48 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 01:20:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 01:20:27 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 01:38:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 01:38:25 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 03:10:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 03:10:52 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 03:49:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema K' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema K 
+ERROR - 2022-08-13 03:49:35 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 04:30:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 04:30:26 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 04:36:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 04:36:21 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 07:32:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 07:32:20 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 09:18:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-08-13 09:18:13 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 11:00:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 11:00:00 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 15:11:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 15:11:10 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 17:13:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-08-13 17:13:05 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 18:08:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 18:08:32 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
+ERROR - 2022-08-13 21:22:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select * from astrologers where id = 
+ERROR - 2022-08-13 21:22:33 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog_details.php 42
+ERROR - 2022-08-13 22:35:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Seema k' at line 1 - Invalid query: select * from astrologers where id =Acharya Seema k 
+ERROR - 2022-08-13 22:35:04 --> Severity: error --> Exception: Call to a member function row() on boolean /var/www/html/application/views/home/blog.php 52
